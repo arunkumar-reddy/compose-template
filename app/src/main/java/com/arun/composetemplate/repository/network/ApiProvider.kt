@@ -1,5 +1,5 @@
 package com.arun.composetemplate.repository.network
 
-class Api() {
+class Api {
     private val apiService = RetrofitClient<ApiService>("")
 }
